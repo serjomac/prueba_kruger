@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F279A3BA-C134-493E-946A-DDB270E02F70"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DE91535-7448-48A9-A62A-5FCFB4BEF509"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "prueba-macias/Main/Models/PermissonsContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "role()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2DE91535-7448-48A9-A62A-5FCFB4BEF509 - 55502617fa6160d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "prueba_macias.PermissionsContainer.role(in: Swift.String) -&gt; Swift.Optional&lt;prueba_macias.CompanyUserRole&gt;"
+                  moduleName = "prueba-macias"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonathanmacias/Documents/Jonathan/Personales/Trabajos/prueba-macias/prueba-macias/Main/Models/PermissonsContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  uuid = "2DE91535-7448-48A9-A62A-5FCFB4BEF509 - a0ad7b1eefd08499"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (prueba_macias.PermissionsContainer.CompanyPermission) -&gt; Swift.Bool in prueba_macias.PermissionsContainer.role(in: Swift.String) -&gt; Swift.Optional&lt;prueba_macias.CompanyUserRole&gt;"
+                  moduleName = "prueba-macias"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonathanmacias/Documents/Jonathan/Personales/Trabajos/prueba-macias/prueba-macias/Main/Models/PermissonsContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4ADB7CE1-4C24-4957-9F54-E4E3AC15BD4D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "prueba-macias/Main/ViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "configure()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A31A0E4-1702-4D71-BB9A-3F8F6EB1C2CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "prueba-macias/Main/Models/Role.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "hasPermission(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29002C6D-2BD9-4DAD-8AA6-9F7D8579FE53"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "prueba-macias/Main/Enums/CompanyUserRole.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "permissions"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "542C6B16-0684-4E18-B3E8-853B35D61149"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "prueba-macias/Main/ViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

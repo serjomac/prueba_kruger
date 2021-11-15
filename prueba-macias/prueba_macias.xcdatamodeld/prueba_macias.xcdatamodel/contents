@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20G95" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="User" representedClassName="User" syncable="YES" codeGenerationType="class">
+        <attribute name="bornDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="email" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="lastNames" optional="YES" attributeType="String"/>
+        <attribute name="names" optional="YES" attributeType="String"/>
+        <attribute name="password" optional="YES" attributeType="String"/>
+        <attribute name="phoneNumber" optional="YES" attributeType="String"/>
+        <attribute name="role" optional="YES" attributeType="String"/>
+        <attribute name="ubication" optional="YES" attributeType="String"/>
+        <attribute name="username" optional="YES" attributeType="String"/>
+        <attribute name="vaccunatedState" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="Vaccunate" representedClassName="Vaccunate" syncable="YES" codeGenerationType="class">
+        <attribute name="dosisNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="idEmployee" optional="YES" attributeType="String"/>
+        <attribute name="vacunatteTipe" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="vacunnateDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+    </entity>
+    <elements>
+        <element name="User" positionX="-291.3792724609375" positionY="73.37918090820312" width="128" height="208"/>
+        <element name="Vaccunate" positionX="-52.151123046875" positionY="214.0191040039062" width="128" height="118"/>
+    </elements>
+</model>
